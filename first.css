@@ -1,3 +1,6 @@
 .st{width: 100%;display: flex;justify-content: space-around;align-items: center;
-background-color: black;color: white;}
-.st h4{font-size: 50px;}
+color: white;}
+.st h4{font-size: 50px;
+    background: black;
+    padding: 50px;
+}
